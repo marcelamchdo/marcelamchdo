@@ -33,4 +33,4 @@
   <a href="https://www.linkedin.com/in/marcelamchdo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h3 align="center"><em>"Good bye and thanks for all the fish."</h3>
+<h3 align="center"><em>"So long and thanks for all the fish."</h3>

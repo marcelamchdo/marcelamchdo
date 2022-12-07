@@ -4,7 +4,11 @@
 <img height=20em src="https://img.icons8.com/ios/250/FFFFFF/dating-website.png"> &nbsp Hi, my name is Marcela Machado. I'm 24 years old and I'm brazilian!
   <br>
 <img height=20em src="https://img.icons8.com/ios/250/FFFFFF/source-code.png"> &nbsp Actually, I'm web developer student at Trybe.
+  
+  email: devmarcela.js@gmail.com
 </div>
+
+
 
 <br>
 

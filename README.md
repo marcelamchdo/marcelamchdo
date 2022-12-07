@@ -5,7 +5,6 @@
   <br>
 <img height=20em src="https://img.icons8.com/ios/250/FFFFFF/source-code.png"> &nbsp Actually, I'm web developer student at Trybe.
   
-  email: devmarcela.js@gmail.com
 </div>
 
 
@@ -37,5 +36,7 @@
  	<a href="https://twitter.com/endma_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcelamchdo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div>email: devmarcela.js@gmail.com</div>
 
 <h3 align="center"><em>"So long and thanks for all the fish."</h3>

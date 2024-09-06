@@ -3,7 +3,7 @@
 <div>
 <img height=20em src="https://img.icons8.com/ios/250/FFFFFF/dating-website.png"> &nbsp Hi, my name is Marcela Machado. I'm 27 years old and I'm brazilian!
   <br>
-<img height=20em src="https://img.icons8.com/ios/250/FFFFFF/source-code.png"> &nbsp Actually, I'm web developer front-end and ux/ui designer.
+<img height=20em src="https://img.icons8.com/ios/250/FFFFFF/source-code.png"> &nbsp I'm web developer front-end and UX/UI designer.
   
 </div>
 
